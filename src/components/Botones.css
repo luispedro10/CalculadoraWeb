@@ -1,0 +1,11 @@
+button{
+    background-color: #f9fcff;
+    width:125px;
+    height: 110px;
+    padding: 10px;
+    background-image: linear-gradient(147deg, #fffcf9 0%, #eae6de 74%); 
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+    box-sizing: border-box; 
+}

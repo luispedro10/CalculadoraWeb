@@ -1,0 +1,20 @@
+
+#Calc{
+   background-color: #000000;
+   width: 500px;
+   height: 680px;
+   margin: 80px;
+}
+
+textarea{
+   width:99%;
+   height:120px;
+   background-color: whitesmoke;
+   resize: none;
+   font-size: 45px;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   text-align: right;
+   margin: 0;
+   
+
+}

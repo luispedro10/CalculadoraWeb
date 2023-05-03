@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import StartApp from "./components/startApp";
+import StartApp from "./components/StartApp";
 import "../src/components/Botones.css";
-import "../src/components/Calculadora.css";
-import "../src/components/Tablero.css";
+import "../src/components/Calc.css";
+import "../src/components/Back.css";
 
 const StartComponent = () => {
   return <h1> New React APP</h1>;
